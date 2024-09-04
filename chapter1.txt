@@ -1,1 +1,2 @@
-Hello, This is chapter 1 of my story. Also these changes occur in editing branch.
+Hello, This is chapter 1 of my story. Also these changes occur in editing branch. 
+Some more practice of editing branch on Git.
